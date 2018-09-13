@@ -1,2 +1,3 @@
 # idbook-witness
-witness
+IDBOOK witness
+
